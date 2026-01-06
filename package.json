@@ -13,7 +13,7 @@
     "versatile_thermostat"
   ],
   "module": "versatile-thermostat-ui-card.js",
-  "repository": "https://github.com/jmcollin78/versatile-thermostat-ui-card",
+  "repository": "https://github.com/Tomblarom/versatile-thermostat-ui-card",
   "author": "Jean-Marc Collin",
   "type": "module",
   "scripts": {

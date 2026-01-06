@@ -77,7 +77,7 @@ The card configuration:
 
 # Installation
 
-For installation you should have [HACS](https://hacs.xyz/docs/setup/download/) installed. Then add this repository https://github.com/jmcollin78/versatile-thermostat-ui-card in HACS and install the card. You have to reload you browser after installation.
+For installation you should have [HACS](https://hacs.xyz/docs/setup/download/) installed. Then add this repository https://github.com/Tomblarom/versatile-thermostat-ui-card in HACS and install the card. You have to reload you browser after installation.
 
 Then you can add the new card into your dashboard.
 
@@ -324,13 +324,13 @@ What we have so far:
 [versatile_thermostat]: https://github.com/jmcollin78/versatile_thermostat
 [buymecoffee]: https://www.buymeacoffee.com/jmcollin78
 [buymecoffeebadge]: https://img.shields.io/badge/Buy%20me%20a%20beer-%245-orange?style=for-the-badge&logo=buy-me-a-beer
-[commits-shield]: https://img.shields.io/github/commit-activity/y/jmcollin78/versatile-thermostat-ui-card.svg?style=for-the-badge
-[commits]: https://github.com/jmcollin78/versatile-thermostat-ui-card/commits/master
+[commits-shield]: https://img.shields.io/github/commit-activity/y/Tomblarom/versatile-thermostat-ui-card.svg?style=for-the-badge
+[commits]: https://github.com/Tomblarom/versatile-thermostat-ui-card/commits/master
 [hacs]: https://github.com/custom-components/hacs
 [hacs_badge]: https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
-[license-shield]: https://img.shields.io/github/license/jmcollin78/versatile-thermostat-ui-card.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Tomblarom/versatile-thermostat-ui-card.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-Joakim%20Sørensen%20%40ludeeus-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/jmcollin78/versatile-thermostat-ui-card.svg?style=for-the-badge
-[releases]: https://github.com/jmcollin78/versatile-thermostat-ui-card/releases
+[releases-shield]: https://img.shields.io/github/release/Tomblarom/versatile-thermostat-ui-card.svg?style=for-the-badge
+[releases]: https://github.com/Tomblarom/versatile-thermostat-ui-card/releases
